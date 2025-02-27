@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "VariousOperators\VariousOperators.csproj", "{67CF22C8-C87A-483B-A6B8-F9D206D2B563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{67CF22C8-C87A-483B-A6B8-F9D206D2B563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67CF22C8-C87A-483B-A6B8-F9D206D2B563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67CF22C8-C87A-483B-A6B8-F9D206D2B563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
