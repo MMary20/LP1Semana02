@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "Various
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTOne", "ChatGPTOne\ChatGPTOne.csproj", "{3A6D9693-8047-44C7-A2C1-F568D044159E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{C38618EB-5EA4-4373-BBCF-EEEBAB4998A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD25A3A-8BD8-4F02-A88F-7E2BDB591FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6D9693-8047-44C7-A2C1-F568D044159E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6D9693-8047-44C7-A2C1-F568D044159E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6D9693-8047-44C7-A2C1-F568D044159E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6D9693-8047-44C7-A2C1-F568D044159E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38618EB-5EA4-4373-BBCF-EEEBAB4998A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38618EB-5EA4-4373-BBCF-EEEBAB4998A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38618EB-5EA4-4373-BBCF-EEEBAB4998A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38618EB-5EA4-4373-BBCF-EEEBAB4998A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -6,7 +6,7 @@ namespace Cilindro
     {
         static void Main(string[] args)
         {
-            Console.Write("Altura ");
+            Console.Write("Altura: ");
             double altura = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Raio: ");
